@@ -1,4 +1,4 @@
-<h1 style="text-align:center">RapidBrite</h1>
+<h1 align="center">RapidBrite</h1>
 
 ## ⭐️ Founder
 
